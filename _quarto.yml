@@ -1,0 +1,40 @@
+project:
+  type: "website"
+  render:
+    - "*.md"
+    - "*.qmd"
+    - "!doc/"
+    - "!README.md"
+
+
+bibliography: "references.bib"
+
+
+website:
+  title: "Robin Fisher"
+  site-url: "https://itsarobin.github.io"
+  repo-url: &repo-url "https://github.com/itsarobin/itsarobin.github.io"
+  repo-actions: ["edit", "issue"]
+
+  navbar:
+    right:
+      # - text: CV
+      #   file: cv.md
+      - text: "Posts"
+        file: "posts/index.md"
+      - text: "Recipes"
+        file: "recipes/index.md"
+      - icon: "github"
+        aria-label: "GitHub"
+        href: *repo-url
+
+  page-footer:
+    left: "Built with [Quarto](https://quarto.org/) ❤️"
+
+
+format:
+  html:
+    theme:
+      light:  "flatly"
+      dark: "darkly"
+    css: "styles.css"
