@@ -2,10 +2,12 @@
 title: "Kimchi"
 author: "Robin Fisher"
 date: "2023-06-25"
-image: "../../assets/kimchi.jpg"
+image: "kimchi.jpg"
 categories:
   - "fermented"
 ---
+
+![Kimchi](kimchi.jpg)
 
 Original recipe by @lopez-alt_kimchi.
 
