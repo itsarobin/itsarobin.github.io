@@ -2,7 +2,7 @@
 title: "Kimchi"
 author: "Robin Fisher"
 date: "2023-06-25"
-image: "assets/kimchi.jpg"
+image: "../../assets/kimchi.jpg"
 categories:
   - "fermented"
 ---
