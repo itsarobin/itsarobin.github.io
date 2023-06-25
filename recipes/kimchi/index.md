@@ -3,11 +3,10 @@ title: "Kimchi"
 author: "Robin Fisher"
 date: "2023-06-25"
 image: "kimchi.jpg"
+title-block-banner: "kimchi.jpg"
 categories:
   - "fermented"
 ---
-
-![Kimchi](kimchi.jpg)
 
 Original recipe by @lopez-alt_kimchi.
 
@@ -64,4 +63,3 @@ Per one pound of napa cabbage:
 
 * [Kimchi Jjigae (kimchi stew)](https://www.maangchi.com/recipe/kimchi-jjigae)
 * Kimchi Fried Rice (recipe TODO)
-   
