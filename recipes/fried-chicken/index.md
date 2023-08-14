@@ -119,15 +119,18 @@ Per 2lbs of chicken:
     >
     > This is because the chicken is starting the fry at a much higher temperature and most of the mositure in the chicken has already been lost in the first fry, meaning the oil will "boil" much less.
     > 
-    > For example; I may first fry a 1x scale of this recipe over 3-4 batches but am more than capable of frying the entire recipe in the second fry.
+    > For example, with 2.5 gallons of oil, I may do the first fry in 3-4 batches, and the second fry in one batch.
 
 
 ## Acknowledgements
+
+I don't remember all the resources I used in developing this recipe, but here are a few:
 
 * Serious Eats:
     * [The Best Chinese Sesame Chicken](https://www.seriouseats.com/the-best-chinese-sesame-chicken-recipe)
     * [The Best General Tso's Chicken Recipe](https://www.seriouseats.com/the-best-general-tsos-chicken-food-lab-chinese-recipe)
     * [Chinese-American Orange Chicken Recipe](https://www.seriouseats.com/the-best-chinese-orange-chicken-recipe)
+
+Editors:
+
 * [@mfisher87](https://github.com/mfisher87)
-    * Emoji Support
-    * Better writing
