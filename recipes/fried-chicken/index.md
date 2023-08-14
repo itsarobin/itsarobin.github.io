@@ -133,4 +133,4 @@ I don't remember all the resources I used in developing this recipe, but here ar
 
 Editors:
 
-* [@mfisher87](https://github.com/mfisher87)
+* [&#64;mfisher87](https://github.com/mfisher87)
