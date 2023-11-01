@@ -6,7 +6,7 @@ dependencies:
   - python ~=3.11.0
 
   # Framework dependencies
-  - quarto ~=1.3.427
+  - quarto =1.3.427=ha770c72_1
   - jupyter ~=1.0.0
 
 
