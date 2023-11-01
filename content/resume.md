@@ -47,25 +47,26 @@ A creative engineer passionate about human-first software design, accessibility,
   }
 }
 
-\cvevent{Jun. 2019 - March 2020}{Software Engineer}{Inspirato}{
-}
+\cvevent{Jun. 2019 - March 2020}{Software Engineer}{Inspirato}{}
 \cvevent{May 2018 - March 2019}{Senior Web Developer}{Vermilion Design + Digital}{}
 \cvevent{Nov. 2017 - April 2018}{Freelance Web Developer}{Neat Capital}{}
 \cvevent{Aug. 2016 - Nov. 2017}{Senior Front-end Engineer}{Infield Digital}{}
 \cvevent{May - August 2016}{Enterprise Wordpress Architect}{Janus Capital}{}
 \cvevent{May 2015 - May 2016}{Front-End Developer}{Enova Financial}{}
 \cvevent{Jan. 2015 - Sep. 2015}{Front-End Developer}{The Creative Group}{}
-\cvevent{Jan. 2013 - Active}{Freelance}{}{}
+\cvevent{Jan. 2013 - Active}{Freelance Software Developer}{Freelance}{}
 
 # About me
 
-\cvevent{}{Career interests}{Software communities, open science, collaboration}{
-  {Education for researchers - open science and inclusive, sustainable community leadership},
-  {Collaborative development, i.e. "pair/group programming"}
+\cvevent{}{Career interests}{Social/Collective Impact, collaboration, creative endevours}{
+  {Information accessibility and inclusivity - working with communities to provide tools they need},
+  {Collaboration with designers/artists, musicians, and other creatives to build experiences otherwise unobtainable},
+  {Creating positive, progressive change for underserved communities and humanity as a whole}
 }
 
-\cvevent{}{Personal interests}{Tech, music, nature}{
-  {Playing, recording, developing, and constructing electric and acoustic musical instruments},
-  {Self-hosted services and home automation with Home Assistant},
+\cvevent{}{Personal interests}{Cooking, creativity, nature}{
+  {Self, and collaborative, expression through music, art, and games},
+  {Running, hiking, skating, drone racing - anything that gets me outside and enjoying the world},
   {Plants (especially organic gardening) and animals (especially dogs)}
+  {Baking, bread making, stir-frying, and any other culinary related think you can think of}
 }
