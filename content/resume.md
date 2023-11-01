@@ -48,9 +48,6 @@ A creative engineer passionate about human-first software design, accessibility,
 }
 
 \cvevent{Jun. 2019 - March 2020}{Software Engineer}{Inspirato}{
-  {Devloped booking tools for new products},
-  {Implemented performance enhancements for react web apps},
-  {Consulted for multiple teams on technical strategy, architecture, and how to develop best practices/standard}
 }
 \cvevent{May 2018 - March 2019}{Senior Web Developer}{Vermilion Design + Digital}{}
 \cvevent{Nov. 2017 - April 2018}{Freelance Web Developer}{Neat Capital}{}
