@@ -23,3 +23,5 @@ I do stuff!
 ## Robin's interests
 
 I like stuff!
+
+### [View my resume](resume.pdf)
