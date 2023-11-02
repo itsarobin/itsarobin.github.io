@@ -5,11 +5,11 @@ title: "Creative Software Engineer"
 format:
   classic-cv-pdf: "default"
 cvfooter:
-  left: "\\href{https://itsarobbin.github.io}{itsarobin.github.io}"
+  left: "\\href{https://itsarobin.github.io}{itsarobin.github.io}"
   # NOTE: Space added to fix off-center alignment
   right: "\\ \\href{https://github.com/itsarobin}{github.com/itsarobin}"
 # A color hex code without `#`
-cvcolor: "f95757"
+cvcolor: "8526eb"
 # A texlive font like lato,raleway,fetamont,gillius,comfortaa; fetamont, comfortaa, and
 # lato all look OK
 cvfont: "fetamont"
