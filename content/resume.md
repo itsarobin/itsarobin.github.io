@@ -33,8 +33,8 @@ A creative engineer passionate about human-first software design, accessibility,
   {
     \itemize 
       \item{Technical lead for a prototype system that visualizes realtime satellite data of orbital objects and infrared imagery. Instrumental in winning a \$500m government contract}
-      \item{Prototype work for geospatial visualizations in Unreal Engine, Unity, and pure rust}
-      \item{Authored a web worker based wasm framework for satellite propagation with rust bindings for \href{https://crates.io/crates/sgp4}{this sgp4 crate} and a client's propriatary c++ sgp4 implementation}
+      \item{Prototype work for geospatial visualizations in Unreal Engine, Unity, and pure Rust}
+      \item{Authored a web worker based wasm framework for satellite propagation with Rust bindings for \href{https://crates.io/crates/sgp4}{this sgp4 crate} and a client's propriatary c++ sgp4 implementation}
       \item{Implemented performance enhancements for 3d data visualizations, simulations, and web apps}
       \item{Designed architecture for: \itemize
         \item A pluggable client for a web/native application
@@ -46,6 +46,7 @@ A creative engineer passionate about human-first software design, accessibility,
   }
 }
 
+\cvevent{Jan. 2013 - Active}{Freelance Software Developer}{Freelance}{}
 \cvevent{Jun. 2019 - March 2020}{Software Engineer}{Inspirato}{}
 \cvevent{May 2018 - March 2019}{Senior Web Developer}{Vermilion Design + Digital}{}
 \cvevent{Nov. 2017 - April 2018}{Freelance Web Developer}{Neat Capital}{}
@@ -53,7 +54,6 @@ A creative engineer passionate about human-first software design, accessibility,
 \cvevent{May - August 2016}{Enterprise Wordpress Architect}{Janus Capital}{}
 \cvevent{May 2015 - May 2016}{Front-End Developer}{Enova Financial}{}
 \cvevent{Jan. 2015 - Sep. 2015}{Front-End Developer}{The Creative Group}{}
-\cvevent{Jan. 2013 - Active}{Freelance Software Developer}{Freelance}{}
 
 # About me
 
