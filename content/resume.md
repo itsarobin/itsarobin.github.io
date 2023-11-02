@@ -1,7 +1,7 @@
 ---
 author: "Robin Fisher"
 pronouns: It / She
-title: "Creative Engineer"
+title: "Creative Software Engineer"
 format:
   classic-cv-pdf: "default"
 cvfooter:
@@ -29,21 +29,19 @@ A creative engineer passionate about human-first software design, accessibility,
 # Experience
 
 \cvevent{Sep. 2020 - May 2023}{Senior Software Engineer}{Outside Analytics}{
-  {Technical Lead of visualization team for prototype OPIR data visualization application. Insturmental in winning the down select phase of a \$500m contract},
-  {Exploritory/Prototype work for GIS visualizations in Unreal Engine, Unity, and pure rust},
-  {Authored a web worker based wasm framework for satellite propagation with rust bindings for \href{https://crates.io/crates/sgp4}{this sgp4 crate} and a client's propriatary c++ sgp4 implementation},
-  {Imlemented numberous performance enhancements for 3d data visualizations, simulations, and web apps}
-  {Designed architecture for: \itemize
-    \item A pluggable client for a web/native application
-    \item Micro services supporting client applications responsible for data transformation/manipulation/creation, multi-client interaction, and more
-    \item Client-side architecture for accurate and performant rendering of up to 50k space objects in a web app.
-    \item Visualization, introspection, and creation of multiple GIS products in an Unreal client, including blueprint support. GIS products include: \itemize
-        \item Point cloud data
-        \item Static satellite imagery
-        \item Real-time satellite imagery
-        \item Satellite historic and predicted position data
-        \item Track line data
+  {
+    \itemize 
+      \item{Technical lead for a prototype system that visualizes realtime satellite data of orbital objects and infrared imagery. Instrumental in winning a \$500m government contract},
+      \item{Prototype work for geospatial visualizations in Unreal Engine, Unity, and pure rust},
+      \item{Authored a web worker based wasm framework for satellite propagation with rust bindings for \href{https://crates.io/crates/sgp4}{this sgp4 crate} and a client's propriatary c++ sgp4 implementation},
+      \item{Implemented performance enhancements for 3d data visualizations, simulations, and web apps},
+      \item{Designed architecture for: \itemize
+        \item A pluggable client for a web/native application
+        \item Micro services supporting client applications responsible for data transformation/manipulation/creation, multi-client interaction, and more
+        \item Client-side architecture for accurate and performant rendering of up to 50k space objects in a web app.
+        \item Visualization, introspection, and creation of geospatial data in an Unreal client with blueprint support. Including: Point clouds, static/real-time satellite imagery, satellite historic/predicted position, and track lines
         \item[\\] \phantom{no}
+      }
   }
 }
 
@@ -58,15 +56,18 @@ A creative engineer passionate about human-first software design, accessibility,
 
 # About me
 
-\cvevent{}{Career interests}{Social/Collective Impact, collaboration, creative endevours}{
-  {Information accessibility and inclusivity - working with communities to provide tools they need},
-  {Collaboration with designers/artists, musicians, and other creatives to build experiences otherwise unobtainable},
-  {Creating positive, progressive change for underserved communities and humanity as a whole}
-}
+\cvevent{}{Career interests}{Social/collective impact, collaboration, creative endevours}{{
+  \itemize
+    \item{Accessibility and inclusivity - working with communities to provide tools they need},
+    \item{Collaboration with designers/artists, musicians, and other creatives to build experiences otherwise unobtainable},
+    \item{Creating progressive change, focusing on underserved communities},
+    \item[\\] \phantom{no}
+}}
 
-\cvevent{}{Personal interests}{Cooking, creativity, nature}{
-  {Self, and collaborative, expression through music, art, and games},
-  {Running, hiking, skating, drone racing - anything that gets me outside and enjoying the world},
-  {Plants (especially organic gardening) and animals (especially dogs)}
-  {Baking, bread making, stir-frying, and any other culinary related think you can think of}
-}
+\cvevent{}{Personal interests}{Cooking, creativity, nature}{{
+  \itemize
+    \item{Self, and collaborative, expression through music, art, and games},
+    \item{Gardening, running (with dogs!), hiking, skating, drone racing - anything that gets me outside and enjoying the world},
+    \item{Baking, bread making, stir-frying, and any other culinary related think you can think of}
+    \item[\\] \phantom{no}
+}{}}
