@@ -25,6 +25,8 @@ website:
         file: "posts/index.md"
       - text: "Recipes"
         file: "recipes/index.md"
+      - text: "Resume"
+        file: "resume.pdf"
       - icon: "github"
         aria-label: "GitHub"
         href: *repo-url
