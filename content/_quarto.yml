@@ -15,6 +15,7 @@ website:
   description: "Robin's website"
   site-url: "https://itsarobin.github.io"
   repo-url: &repo-url "https://github.com/itsarobin/itsarobin.github.io"
+  repo-subdir: "content"
   repo-actions: ["edit", "issue"]
 
   navbar:
