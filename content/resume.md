@@ -67,7 +67,7 @@ A creative engineer passionate about human-first software design, accessibility,
 \cvevent{}{Personal interests}{Cooking, creativity, nature}{{
   \itemize
     \item{Self, and collaborative, expression through music, art, and games},
-    \item{Gardening, running (with dogs!), hiking, skating, drone racing - anything that gets me outside and enjoying the world},
+    \item{Gardening, running (with dogs!), hiking, skating, drone racing - anything that gets me outside and enjoying the world}
     \item{Baking, bread making, stir-frying, and any other culinary related think you can think of}
     \item[\\] \phantom{no}
 }{}}
