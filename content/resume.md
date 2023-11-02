@@ -22,6 +22,7 @@ cvmeta:
     right: "\\href{mailto:robin.fisher.co@gmail.com}{robin.fisher.co@gmail.com}"
   - title: "Skills"
     left: "TypeScript, Rust, C++, Python, UI/UX, software architecture, Linux, containers"
+    right: "\\ \\href{https://github.com/itsarobin}{github.com/itsarobin}"
 ---
 
 A creative engineer passionate about human-first software design, accessibility, inclusivity, and artistic integrity.
@@ -31,10 +32,10 @@ A creative engineer passionate about human-first software design, accessibility,
 \cvevent{Sep. 2020 - May 2023}{Senior Software Engineer}{Outside Analytics}{
   {
     \itemize 
-      \item{Technical lead for a prototype system that visualizes realtime satellite data of orbital objects and infrared imagery. Instrumental in winning a \$500m government contract},
-      \item{Prototype work for geospatial visualizations in Unreal Engine, Unity, and pure rust},
-      \item{Authored a web worker based wasm framework for satellite propagation with rust bindings for \href{https://crates.io/crates/sgp4}{this sgp4 crate} and a client's propriatary c++ sgp4 implementation},
-      \item{Implemented performance enhancements for 3d data visualizations, simulations, and web apps},
+      \item{Technical lead for a prototype system that visualizes realtime satellite data of orbital objects and infrared imagery. Instrumental in winning a \$500m government contract}
+      \item{Prototype work for geospatial visualizations in Unreal Engine, Unity, and pure rust}
+      \item{Authored a web worker based wasm framework for satellite propagation with rust bindings for \href{https://crates.io/crates/sgp4}{this sgp4 crate} and a client's propriatary c++ sgp4 implementation}
+      \item{Implemented performance enhancements for 3d data visualizations, simulations, and web apps}
       \item{Designed architecture for: \itemize
         \item A pluggable client for a web/native application
         \item Micro services supporting client applications responsible for data transformation/manipulation/creation, multi-client interaction, and more
@@ -58,15 +59,15 @@ A creative engineer passionate about human-first software design, accessibility,
 
 \cvevent{}{Career interests}{Social/collective impact, collaboration, creative endevours}{{
   \itemize
-    \item{Accessibility and inclusivity - working with communities to provide tools they need},
-    \item{Collaboration with designers/artists, musicians, and other creatives to build experiences otherwise unobtainable},
-    \item{Creating progressive change, focusing on underserved communities},
+    \item{Accessibility and inclusivity - working with communities to provide tools they need}
+    \item{Collaboration with designers/artists, musicians, and other creatives to build experiences otherwise unobtainable}
+    \item{Creating progressive change, focusing on underserved communities}
     \item[\\] \phantom{no}
 }}
 
 \cvevent{}{Personal interests}{Cooking, creativity, nature}{{
   \itemize
-    \item{Self, and collaborative, expression through music, art, and games},
+    \item{Self, and collaborative, expression through music, art, and games}
     \item{Gardening, running (with dogs!), hiking, skating, drone racing - anything that gets me outside and enjoying the world}
     \item{Baking, bread making, stir-frying, and any other culinary related think you can think of}
     \item[\\] \phantom{no}
