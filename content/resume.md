@@ -25,7 +25,7 @@ cvmeta:
     right: "\\ \\href{https://github.com/itsarobin}{github.com/itsarobin}"
 ---
 
-A creative engineer passionate about human-first software design, accessibility, inclusivity, and artistic integrity.
+A creative engineer passionate about software design, accessibility, inclusivity, and artistic integrity.
 
 # Experience
 
@@ -37,7 +37,7 @@ A creative engineer passionate about human-first software design, accessibility,
       \item{Authored a web worker based wasm framework for satellite propagation with Rust bindings for \href{https://crates.io/crates/sgp4}{this sgp4 crate} and a client's propriatary c++ sgp4 implementation}
       \item{Implemented performance enhancements for 3d data visualizations, simulations, and web apps}
       \item{Designed architecture for: \itemize
-        \item A pluggable client for a web/native application
+        \item A client architecture that enables third parties to fully integrate their own views and visualizations into a unified client
         \item Micro services supporting client applications responsible for data transformation/manipulation/creation, multi-client interaction, and more
         \item Client-side architecture for accurate and performant rendering of up to 50k space objects in a web app.
         \item Visualization, introspection, and creation of geospatial data in an Unreal client with blueprint support. Including: Point clouds, static/real-time satellite imagery, satellite historic/predicted position, and track lines
@@ -61,14 +61,14 @@ A creative engineer passionate about human-first software design, accessibility,
   \itemize
     \item{Accessibility and inclusivity - working with communities to provide tools they need}
     \item{Collaboration with designers/artists, musicians, and other creatives to build experiences otherwise unobtainable}
-    \item{Creating progressive change, focusing on underserved communities}
+    \item{Creating progressive change focusing on underserved communities}
     \item[\\] \phantom{no}
 }}
 
 \cvevent{}{Personal interests}{Cooking, creativity, nature}{{
   \itemize
-    \item{Self, and collaborative, expression through music, art, and games}
-    \item{Gardening, running (with dogs!), hiking, skating, drone racing - anything that gets me outside and enjoying the world}
-    \item{Baking, bread making, stir-frying, and any other culinary related think you can think of}
+    \item{Self expression through music, art, and games}
+    \item{Gardening, running (with dogs!), hiking, skating, and drone racing}
+    \item{Baking, bread making, stir-frying, and any other culinary things you can think of}
     \item[\\] \phantom{no}
 }{}}
